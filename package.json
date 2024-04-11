@@ -1,7 +1,7 @@
 {
-  "name": "nextra-docs-template",
+  "name": "documentation-starter-kit",
   "version": "0.0.1",
-  "description": "Nextra docs template",
+  "description": "Defang's Document Starter with Nextra",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shuding/nextra-docs-template.git"
+    "url": "https://github.com/HongchenY/documentation-starter-kit.git"
   },
-  "author": "Shu Ding <g@shud.in>",
+  "author": "Hongchen Yu",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/shuding/nextra-docs-template/issues"
+    "url": "https://github.com/HongchenY/documentation-starter-kit/issues"
   },
-  "homepage": "https://github.com/shuding/nextra-docs-template#readme",
+  "homepage": "https://github.com/HongchenY/documentation-starter-kit",
   "dependencies": {
     "next": "^13.0.6",
     "nextra": "latest",
